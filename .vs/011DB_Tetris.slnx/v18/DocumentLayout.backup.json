@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\27609\\Desktop\\011DB_Tetris\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9C11CEC-EE40-4B0F-9BCE-C839A0F19192}|011DB_Tetris\\011DB_Tetris.csproj|c:\\users\\27609\\desktop\\011db_tetris\\011db_tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E9C11CEC-EE40-4B0F-9BCE-C839A0F19192}|011DB_Tetris\\011DB_Tetris.csproj|solutionrelative:011db_tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|c:\\users\\27609\\desktop\\011db_tetris\\011db_tetris\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|solutionrelative:011db_tetris\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9C11CEC-EE40-4B0F-9BCE-C839A0F19192}|011DB_Tetris\\011DB_Tetris.csproj|c:\\users\\27609\\desktop\\011db_tetris\\011db_tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9C11CEC-EE40-4B0F-9BCE-C839A0F19192}|011DB_Tetris\\011DB_Tetris.csproj|solutionrelative:011db_tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|c:\\users\\27609\\desktop\\011db_tetris\\011db_tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|solutionrelative:011db_tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|c:\\users\\27609\\desktop\\011db_tetris\\011db_tetris\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|solutionrelative:011db_tetris\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|c:\\users\\27609\\desktop\\011db_tetris\\011db_tetris\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|solutionrelative:011db_tetris\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|c:\\users\\27609\\desktop\\011db_tetris\\011db_tetris\\011db_tetris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|solutionrelative:011db_tetris\\011db_tetris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|c:\\users\\27609\\desktop\\011db_tetris\\011db_tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19511CC4-72B8-6376-C8E5-FC97A443AF57}|011DB_Tetris\\011DB_Tetris.csproj|solutionrelative:011db_tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,8 +53,61 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameGrid.cs",
+              "DocumentMoniker": "C:\\Users\\27609\\Desktop\\011DB_Tetris\\011DB_Tetris\\GameGrid.cs",
+              "RelativeDocumentMoniker": "011DB_Tetris\\GameGrid.cs",
+              "ToolTip": "C:\\Users\\27609\\Desktop\\011DB_Tetris\\011DB_Tetris\\GameGrid.cs",
+              "RelativeToolTip": "011DB_Tetris\\GameGrid.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T07:47:09.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\27609\\Desktop\\011DB_Tetris\\011DB_Tetris\\App.xaml.cs",
+              "RelativeDocumentMoniker": "011DB_Tetris\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\27609\\Desktop\\011DB_Tetris\\011DB_Tetris\\App.xaml.cs",
+              "RelativeToolTip": "011DB_Tetris\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T07:43:58.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\27609\\Desktop\\011DB_Tetris\\011DB_Tetris\\App.xaml",
+              "RelativeDocumentMoniker": "011DB_Tetris\\App.xaml",
+              "ToolTip": "C:\\Users\\27609\\Desktop\\011DB_Tetris\\011DB_Tetris\\App.xaml",
+              "RelativeToolTip": "011DB_Tetris\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-13T07:43:56.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "011DB_Tetris.csproj",
+              "DocumentMoniker": "C:\\Users\\27609\\Desktop\\011DB_Tetris\\011DB_Tetris\\011DB_Tetris.csproj",
+              "RelativeDocumentMoniker": "011DB_Tetris\\011DB_Tetris.csproj",
+              "ToolTip": "C:\\Users\\27609\\Desktop\\011DB_Tetris\\011DB_Tetris\\011DB_Tetris.csproj",
+              "RelativeToolTip": "011DB_Tetris\\011DB_Tetris.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-13T07:43:47.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\27609\\Desktop\\011DB_Tetris\\011DB_Tetris\\MainWindow.xaml",
               "RelativeDocumentMoniker": "011DB_Tetris\\MainWindow.xaml",
@@ -50,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\27609\\Desktop\\011DB_Tetris\\011DB_Tetris\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "011DB_Tetris\\MainWindow.xaml.cs",
@@ -58,16 +127,11 @@
               "RelativeToolTip": "011DB_Tetris\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T07:35:07.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-13T07:35:07.491Z"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
