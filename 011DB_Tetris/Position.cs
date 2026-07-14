@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _011DB_Tetris
 {
-    class Position
+    public class Position
     {
         public int row;
         public int column;
